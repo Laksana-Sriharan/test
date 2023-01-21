@@ -9,4 +9,5 @@ class Sum{
     int d=9;
     System.out.println(a+b);
     System.out.println(a+b+c);
+    System.out.println(a+b+c-d);
 }
